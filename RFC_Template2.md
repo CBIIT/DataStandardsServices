@@ -145,8 +145,8 @@ Ethnicity data elements across the seven repositories and/or CRDC
 relevant external efforts. The CDE IDs identified in row 2 of the table
 below is what was provided by the repositories.
 
-<img src="CrossMapping.png" style="width:6.5in;height:3.42569in" />Table
-1 – Data Element cross-mapping
+<img src="CrossMapping.png" style="width:6.5in;height:3.42569in" />
+Table 1 – Data Element cross-mapping
 
 ## 
 
