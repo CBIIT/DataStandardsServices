@@ -145,7 +145,7 @@ Ethnicity data elements across the seven repositories and/or CRDC
 relevant external efforts. The CDE IDs identified in row 2 of the table
 below is what was provided by the repositories.
 
-<img src="media/image1.png" style="width:6.5in;height:3.42569in" />Table
+<img src="CrossMapping.png" style="width:6.5in;height:3.42569in" />Table
 1 – Data Element cross-mapping
 
 ## 
@@ -160,7 +160,7 @@ value from the CDE Public ID – 2192217. The Concept Code from NCI
 Thesaurus ([NCIt](https://ncithesaurus.nci.nih.gov/ncitbrowser/)) for
 each acceptable value is shown in the parenthesis.
 
-<img src="media/image2.png" style="width:6.5in;height:1.82083in" />
+<img src="CrossMapping2.png" style="width:6.5in;height:1.82083in" />
 
 Table 2 – Valid value cross-mapping
 
